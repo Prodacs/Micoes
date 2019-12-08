@@ -1,0 +1,6 @@
+﻿token=NjMxOTQyMDA4MTcyNDQ1Njk4.Xe1LCA.ry15AgFQxgkbQZs3KXiDpLN-hX8
+owner=479797313045266463
+prefix=Eu
+game=غاني
+stayinchannel=true
+songinstatus=false
